@@ -1,1 +1,1 @@
-# CTF Practice
+# CTF-Practice
