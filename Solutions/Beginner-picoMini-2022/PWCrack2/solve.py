@@ -1,3 +1,0 @@
-# not provided
-
-print('string')
